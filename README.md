@@ -16,4 +16,8 @@ So thats it. Click the "Generate Character" button for generate. You can try in 
 The system works with Unity Touch system. You can't play with Unity's Game tab. You have to install simulator for testing or you can test on your phone.<br/>
 
 Demo video:
-<iframe width="1182" height="665" src="https://www.youtube.com/embed/xEwqbLk4sCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+https://user-images.githubusercontent.com/44115746/136672281-f89b7ebd-496c-45f9-9ba6-b8e6a4af6ffe.mp4
+
