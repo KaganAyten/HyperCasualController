@@ -1,8 +1,8 @@
 # SIMPLE CHARACTER CONTROL GENERATOR FOR MOBILE GAMES
 You can make a simple character controller for your game like "Samurai Flash" or "Push'em all" games. <br/>
 ![image](https://user-images.githubusercontent.com/44115746/136671985-5c2d1d49-0b02-4f01-b42c-48f7f9a08686.png)<br/>
-Download whole project or just this ![package](https://drive.google.com/file/d/1o1JjFIzsxd3RXHpwAXqjROaLNp8U2UO3/view?usp=sharing) for using character generator tool.<br/>
-[a link](https://drive.google.com/file/d/1o1JjFIzsxd3RXHpwAXqjROaLNp8U2UO3/view?usp=sharing)
+Download whole project or just this [package](https://drive.google.com/file/d/1o1JjFIzsxd3RXHpwAXqjROaLNp8U2UO3/view?usp=sharing) for using character generator tool.<br/>
+
 Go to Window and click CharacterGenerator tab for open generate window.<br/>
 ![image](https://user-images.githubusercontent.com/44115746/136672055-a9ea742d-2941-40e7-9aa4-6c951e788c96.png)<br/>
 Then drag your model to "your model" area.<br/>
