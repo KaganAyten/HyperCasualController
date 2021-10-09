@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: 7e0043553097dc34e867f52b292bb164
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Armature
+    100004: Buttocks
+    100006: Buttocks_end
+    100008: Casual1
+    100010: Casual1_Body
+    100012: Chest
+    100014: Chest.L
+    100016: Chest.L_end
+    100018: Chest.R
+    100020: Chest.R_end
+    100022: Fingers1L
+    100024: Fingers1R
+    100026: Fingers2L
+    100028: Fingers2L_end
+    100030: Fingers2R
+    100032: Fingers2R_end
+    100034: FootL
+    100036: FootL_end
+    100038: FootR
+    100040: FootR_end
+    100042: HandL
+    100044: HandR
+    100046: Head
+    100048: Head_end
+    100050: Hip
+    100052: Hip.L
+    100054: Hip.L_end
+    100056: Hip.R
+    100058: Hip.R_end
+    100060: IndexFinger1L
+    100062: IndexFinger1R
+    100064: IndexFinger2L
+    100066: IndexFinger2L_end
+    100068: IndexRinger2R
+    100070: IndexRinger2R_end
+    100072: InnerThigh.L
+    100074: InnerThigh.L_end
+    100076: InnerThigh.R
+    100078: InnerThigh.R_end
+    100080: LoweArmL
+    100082: LoweArmR
+    100084: Neck
+    100086: ShinL
+    100088: ShinR
+    100090: ShoulderL
+    100092: ShoulderR
+    100094: Spine
+    100096: ThighL
+    100098: ThighR
+    100100: Thumb1
+    100102: Thumb1R
+    100104: Thumb2
+    100106: Thumb2_end
+    100108: Thumb2R
+    100110: Thumb2R_end
+    100112: UpperArmL
+    100114: UpperArmR
+    400000: //RootNode
+    400002: Armature
+    400004: Buttocks
+    400006: Buttocks_end
+    400008: Casual1
+    400010: Casual1_Body
+    400012: Chest
+    400014: Chest.L
+    400016: Chest.L_end
+    400018: Chest.R
+    400020: Chest.R_end
+    400022: Fingers1L
+    400024: Fingers1R
+    400026: Fingers2L
+    400028: Fingers2L_end
+    400030: Fingers2R
+    400032: Fingers2R_end
+    400034: FootL
+    400036: FootL_end
+    400038: FootR
+    400040: FootR_end
+    400042: HandL
+    400044: HandR
+    400046: Head
+    400048: Head_end
+    400050: Hip
+    400052: Hip.L
+    400054: Hip.L_end
+    400056: Hip.R
+    400058: Hip.R_end
+    400060: IndexFinger1L
+    400062: IndexFinger1R
+    400064: IndexFinger2L
+    400066: IndexFinger2L_end
+    400068: IndexRinger2R
+    400070: IndexRinger2R_end
+    400072: InnerThigh.L
+    400074: InnerThigh.L_end
+    400076: InnerThigh.R
+    400078: InnerThigh.R_end
+    400080: LoweArmL
+    400082: LoweArmR
+    400084: Neck
+    400086: ShinL
+    400088: ShinR
+    400090: ShoulderL
+    400092: ShoulderR
+    400094: Spine
+    400096: ThighL
+    400098: ThighR
+    400100: Thumb1
+    400102: Thumb1R
+    400104: Thumb2
+    400106: Thumb2_end
+    400108: Thumb2R
+    400110: Thumb2R_end
+    400112: UpperArmL
+    400114: UpperArmR
+    2100000: Casual1
+    2100002: mouth_inside
+    2100004: Eye_reflection
+    2100006: Eyeliner
+    2100008: Eyelashes
+    2100010: Eyebrows
+    2100012: EyeBack
+    2100014: Eye
+    2100016: Face
+    2100018: Body
+    2100020: Hair_head
+    4300000: Casual1
+    4300002: Casual1_Body
+    7400000: Armature|ArmatureAction
+    7400002: Armature|short_shirt:Tops|Take 001|BaseLayer
+    9500000: //RootNode
+    13700000: Casual1
+    13700002: Casual1_Body
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body
+    second: {fileID: 2100000, guid: 8e526af249278a0498ce8273e07fcc49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eye
+    second: {fileID: 2100000, guid: 023452b84affa6f43a8feea0e1c55499, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EyeBack
+    second: {fileID: 2100000, guid: b97b55ed446d8ed48acc18d42edf2de0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eye_reflection
+    second: {fileID: 2100000, guid: 02b619845fcb6e741b4be7e71e36c491, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eyebrows
+    second: {fileID: 2100000, guid: aa86a0f3e62852142bfc3a5d4cd7a828, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eyelashes
+    second: {fileID: 2100000, guid: 29c9dd3707158b2448cc0bdf81c33ce8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eyeliner
+    second: {fileID: 2100000, guid: b8022f4bfe3976845b403285a16c5320, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face
+    second: {fileID: 2100000, guid: 45f47006298912f4dbec4062603b460f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair_head
+    second: {fileID: 2100000, guid: 903deec0895457d43a093ac8ee3e1d97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mouth_inside
+    second: {fileID: 2100000, guid: 6591b6a58c1933643bb87bf9fbef044c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ecc8c7eb400ce84c890373ca7439549, type: 3}
+  m_Name: GeneratorData
+  m_EditorClassIdentifier: 
+  chasingCamera: {fileID: 4301049236883166935, guid: 46bf01dd5a74527499dd47caf11b8eec,
+    type: 3}
+  anim: {fileID: 9100000, guid: 1187f2e7f4eb2dd46b77e8f4d90962c4, type: 2}
